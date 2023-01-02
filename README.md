@@ -1,0 +1,12 @@
+# Dsa_codes
+
+## List of Program Maintained from 2 January 2023
+
+<details>
+<summary>
+02/01/2023
+</summary>
+
+- [Word Pattern](https://leetcode.com/problems/word-pattern/)  
+- [Detect Capital](https://leetcode.com/problems/detect-capital/)
+</details>
