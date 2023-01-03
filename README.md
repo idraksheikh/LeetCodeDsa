@@ -13,7 +13,7 @@
 
 <details>
 <summary>
-02/01/2023
+03/01/2023
 </summary>
 
 - [Delete Column to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
