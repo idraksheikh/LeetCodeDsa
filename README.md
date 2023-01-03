@@ -10,3 +10,11 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)  
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
 </details>
+
+<details>
+<summary>
+02/01/2023
+</summary>
+
+- [Delete Column to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+</details>
