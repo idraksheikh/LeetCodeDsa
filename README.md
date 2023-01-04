@@ -21,7 +21,7 @@
 
 <details>
 <summary>
-03/01/2023
+04/01/2023
 </summary>
 
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
