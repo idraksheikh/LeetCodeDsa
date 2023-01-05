@@ -27,4 +27,12 @@
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 </details>
 
+<details>
+<summary>
+05/01/2023
+</summary>
+
+- [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+</details>
+
 
