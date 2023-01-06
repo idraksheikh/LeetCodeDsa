@@ -35,4 +35,12 @@
 - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 </details>
 
+<details>
+<summary>
+06/01/2023
+</summary>
+
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+</details>
+
 
