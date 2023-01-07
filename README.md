@@ -44,4 +44,12 @@
 - [Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
 </details>
 
+<details>
+<summary>
+07/01/2023
+</summary>
+
+- [Gas Station](https://leetcode.com/problems/gas-station/)
+</details>
+
 
