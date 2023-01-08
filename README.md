@@ -2,12 +2,7 @@
 
 ## List of Program Maintained from 2 January 2023
 
-<details>
-<summary>
-January
-</summary>
-
-      
+   
       
       
       <details>
@@ -70,4 +65,4 @@ January
 
       
       
-</details>
+
