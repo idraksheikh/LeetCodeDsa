@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-**January**
+** January **
 </summary>
 
 
