@@ -69,6 +69,14 @@
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 </details>
 
+<details>
+<summary>
+09/01/2023
+</summary>
+
+- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+</details>
+
       
       
 
