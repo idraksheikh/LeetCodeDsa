@@ -77,6 +77,14 @@
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 </details>
 
+<details>
+<summary>
+10/01/2023
+</summary>
+
+- [Same Tree](https://leetcode.com/problems/same-tree/)
+</details>
+
       
       
 
