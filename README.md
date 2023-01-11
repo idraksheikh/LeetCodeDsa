@@ -85,6 +85,17 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 </details>
 
+<details>
+<summary>
+11/01/2023
+</summary>
+
+- [Minimum Time to Collect All Apples in a Tree (Graph Problem need to revise not done)](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+</details>
+
       
       
 
