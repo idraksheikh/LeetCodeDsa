@@ -10,6 +10,7 @@
 </h1>
 </summary>
 
+#### Graph problem need to be revised.
 
 <details>
 <summary>
@@ -93,6 +94,25 @@
 - [Minimum Time to Collect All Apples in a Tree (Graph Problem need to revise not done)](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+</details>
+
+<details>
+<summary>
+12/01/2023
+</summary>
+
+## Not solved any problem.
+
+</details>
+
+<details>
+<summary>
+13/01/2023
+</summary>
+
+- [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
+- [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 
 </details>
 
