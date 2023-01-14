@@ -116,6 +116,15 @@
 
 </details>
 
+<details>
+<summary>
+14/01/2023
+</summary>
+
+- [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
+
+</details>
+
       
       
 
