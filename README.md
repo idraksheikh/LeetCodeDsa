@@ -125,7 +125,18 @@
 
 </details>
 
-      
+ <details>
+<summary>
+15/01/2023
+</summary>
+
+- [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
+- [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
+- [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)
+
+
+</details>
+     
       
 
 </details>
